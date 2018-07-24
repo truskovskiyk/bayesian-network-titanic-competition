@@ -1,0 +1,10 @@
+ipython==6.4.0
+matplotlib==2.2.2
+networkx==1.11
+numpy==1.14.5
+pandas==0.23.3
+pomegranate==0.9.0
+ptyprocess==0.6.0
+scikit-learn==0.19.2
+scipy==1.1.0
+click==6.7
