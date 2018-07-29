@@ -42,8 +42,8 @@ def main():
 
     classification_report_train = error(train_data, bayesian_network)
     classification_report_val = error(val_data, bayesian_network)
-    print(f"train\n{classification_report_train}")
-    print(f"validation\n{classification_report_val}")
+    print("train\n{}".format(classification_report_train))
+    print("validation\n{}".format(classification_report_val))
 
 
 if __name__ == '__main__':
